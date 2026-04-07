@@ -1,4 +1,8 @@
-# NotionCalenderToSlack
+# Comuseum
+
+勢いで作ったもの、そういえば昔に作ったなというものを展開
+
+## NotionCalenderToSlack
 
 Notionでカレンダーに予定を入れた際に、前日や当日にslackに通知を飛ばす機能の追加
 
